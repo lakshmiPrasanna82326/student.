@@ -1,0 +1,66 @@
+body{
+   font-size: large;
+   margin:0px;
+
+}
+
+#title{
+   
+   
+   text-align: center;
+}
+#engDay{
+    background-color: rgb(203, 239, 239);
+    height:1200px;
+    margin:0px;
+    padding:100px;
+    
+    }
+
+ #eng1{
+    display:flex;
+    height:330px;
+    padding:20px;
+    width:auto;
+   
+    margin:30px;
+ }   
+ #eng1P{
+    width:800px;
+    margin:30px;
+    
+ }
+
+ #eng2{
+    display:flex;
+    height:330px;
+    padding:20px;
+    width:auto;
+    
+    
+    margin:20px;
+ }
+
+ #eng2P{
+    width:800px;
+    margin:30px;
+    
+    
+ }
+
+ #eng3{
+   display:flex;
+   height:330px;
+   padding:20px;
+   width:auto;
+   
+   
+   margin:20px;
+ }  
+
+ 
+ #eng3P{
+   width:700px;
+   margin:50px;
+   
+}
